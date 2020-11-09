@@ -1,0 +1,28 @@
+body{
+  /* text-align: center; */
+  background-color: #13232f;
+}
+.logo{
+  width: 150px;
+}
+#myData{
+  background: url("https://t3.ftcdn.net/jpg/01/11/42/58/240_F_111425816_kvcrQwPiqcVvpP3WCX8a6FdI9zEQ0IWb.jpg");
+  text-align: center;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.userDiv{
+  color: white;
+  font-weight: bold;
+  position: relative;
+  left: 340px;
+  background-color:#2096d14b;
+  padding: 30px;
+  margin: 30px;
+  border-radius: 20px;
+  width: 30%;
+}
+
+
+

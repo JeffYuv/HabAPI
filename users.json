@@ -1,0 +1,51 @@
+{
+  "users": [
+    { 
+      "userId": 1,
+      "img": "https://www.habbo.com/habbo-imaging/avatarimage?user=Xinz&action=std&direction=&head_direction=&gesture=std&size=&img_format=gif",
+      "username": "Jeff",
+      "location": {
+        "country": "USA"
+      }
+     
+    },
+    {
+      "userId": 2,
+      "img": "https://www.habbo.com/habbo-imaging/avatarimage?user=rachene123&action=std&direction=&head_direction=&gesture=std&size=&img_format=gif",
+      "username": "Lori",
+      "location": {
+        "country": "USA"
+      }
+    },
+    {
+      "userId": 3,
+      "img": "https://www.habbo.com/habbo-imaging/avatarimage?user=ZaylaPunk&action=std&direction=&head_direction=&gesture=std&size=&img_format=gif",
+      "username": "Zay",
+      "location": {
+        "country": "USA"
+      }
+    },
+    {
+      "userId": 4,
+      "img": "https://www.habbo.com/habbo-imaging/avatarimage?user=SwegKing&action=std&direction=&head_direction=&gesture=std&size=&img_format=gif",
+      "username": "Kevin",
+      "location": {
+        "country": "Canada"
+      }
+    },
+    {
+      "userId": 5,
+      "username": "Mel",
+      "location": {
+        "country": "USA"
+      }
+    },
+    {
+      "userId": 6,
+      "username": "Yarde",
+      "location": {
+        "country": "Canada"
+      }
+    }
+  ]
+}
